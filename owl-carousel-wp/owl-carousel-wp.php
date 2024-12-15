@@ -3,7 +3,7 @@
  * Plugin Name:		   Owl Carousel WP
  * Plugin URI:		   https://www.themescode.com/items/owl-carousel-wp-pro/
  * Description:		   Owl carousel wp is a WordPress Carousel plugin based on owl carousel . You can add Image carousel in any WordPress Website. It is a responsive carousel plugin works perfectly in any Device Screen.Add Image through custom post type and have category to pull image in the carousel from any specific category.owl carousel wp is an easy plugin works using shortcode .
- * Version: 		     2.2.1
+ * Version: 		     2.2.2
  * Author: 			     themescode
  * Author URI: 		   https://www.themescode.com/items/owl-carousel-wp-pro/
  * Text Domain:      owl-carousel-wp

@@ -13,6 +13,25 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AmpGGJWMnVc" frameborder="0" allowfullscreen></iframe>
 
+
+<h3> Basic Shortcode - in Free version </h3>
+
+<h4> Show All images in a carousel </h4>
+
+<pre>[tc-owl-carousel] </pre>
+
+<h4> Show All images of any category in a carousel in ASC Order </h4>
+ 
+<pre>[tc-owl-carousel  carousel_cat="pic" order="ASC"]</pre>
+
+<h4> Show All images of any category in a carousel in DESC Order </h4>
+ 
+<pre>[tc-owl-carousel  carousel_cat="pic" order="DESC"]</pre>
+
+
+
+
+  
 <h3 style="padding-left:0">Available features at OWL Carousel WP - PRO</h3>
   <ol class="pro-features">
 

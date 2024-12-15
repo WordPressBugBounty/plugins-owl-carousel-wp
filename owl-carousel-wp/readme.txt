@@ -2,9 +2,10 @@
 Contributors:themescode, imranemu
 Donate link: https://www.2checkout.com/checkout/purchase?sid=102663544&quantity=1&product_id=7
 Tags: carousel, image, image carousel, responsive carousel, wordpress carousel, post carousel, owl carousel wordpress, wordpress carousel plugin, wordpress image carousel,carousel slider wordpress
-Requires at least: 3.0.1
-Tested up to: 5.4.1
-Stable tag: 4.9.1
+Requires at least: 5.2
+Tested up to: 6.7.1
+Requires PHP: 5.6
+Stable tag: 2.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
@@ -117,6 +118,9 @@ where you need to show the  Owl Carousels.
 3. Add the [tc-owl-carousel] shortcode in any page .
 
 == Changelog ==
+= Version  2.2.2  (15 December, 2024) =
+*  Checked compatibility with WordPress 6.7.1
+
 
 = version 2.2.1 =
  
